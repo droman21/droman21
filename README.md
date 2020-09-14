@@ -1,5 +1,5 @@
 ### Hi there, I'm Dan 👋 👨‍💻
-- 🔭 I’m currently working on my final group project from We Can Code IT bootcamp. It is a single page web app using API and database; full-stack.
+- 🔭 Recent graduate from We Can Code IT bootcamp. Passionate full-stack developer seeking software engineer opportunity.
 - 📫 How to reach me: dan.roman21@gmail.com
 - ⚡ Fun Fact: I used to write a column for the Toledo Blade named "Campus Corner": https://bit.ly/3hRgTtb
 <!--
